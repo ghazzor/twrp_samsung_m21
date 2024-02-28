@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_m21.mk
+    $(LOCAL_DIR)/twrp_m21.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_m21-user \
-    lineage_m21-userdebug \
-    lineage_m21-eng
+    twrp_m21-user \
+    twrp_m21-userdebug \
+    twrp_m21-eng

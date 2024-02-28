@@ -73,7 +73,7 @@ BOARD_SAMSUNG_DYNAMIC_PARTITIONS_SIZE := 9122611200
 TARGET_BOARD_PLATFORM := universal9611
 
 # Properties
-TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
+# TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop 
 
 # TWRP specific build flags
 TW_THEME := portrait_hdpi
